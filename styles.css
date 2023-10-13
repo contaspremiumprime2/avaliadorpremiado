@@ -1,0 +1,18 @@
+.botao-download {
+    color: #fefefe; /* Cor do texto branco */
+    background-color: #00a173; /* Cor de fundo azul semelhante */
+    padding: 12px 24px; /* Espaçamento interno */
+    font-size: 16px; /* Tamanho da fonte */
+    border: none; /* Sem borda */
+    border-radius: 4px; /* Cantos arredondados */
+    cursor: pointer; /* Ícone de cursor de mão */
+    text-align: center; /* Centralizar texto */
+    text-decoration: none; /* Sem sublinhado */
+    font-weight: bold; /* Texto em negrito */
+    box-shadow: 0 2px 4px rgba(255, 255, 255, 0.2); /* Sombra leve */
+    transition: background-color 0.3s; /* Transição suave de cor de fundo */
+}
+
+.botao-download:hover {
+    background-color: #227938; /* Cor de fundo mais escura ao passar o mouse */
+}
